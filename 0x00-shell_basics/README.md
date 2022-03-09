@@ -5,3 +5,4 @@ File 5-listfilesdigitonly Display current directory contents in long fomart with
 File 6-firstdirectory command to create directory named my_first_directory in the /tmp/ directory
 File 7-movethatfile Move the file betty from /tmp/ to /tmp/my_first_directory
 File 7-movethatfile Move the file betty from /tmp/ to /tmp/my_first_directory
+File 8-firstdelete delete the file betty
