@@ -1,1 +1,1 @@
-Command to print absolute path name for current working directory
+File 1-listit Display the contents list of your current directory
