@@ -4,3 +4,4 @@ File 4-listmorefiles Display current directory contents, including hidden files 
 File 5-listfilesdigitonly Display current directory contents in long fomart with user and group IDs displayed numerically and hidden files
 File 6-firstdirectory command to create directory named my_first_directory in the /tmp/ directory
 File 7-movethatfile Move the file betty from /tmp/ to /tmp/my_first_directory
+File 7-movethatfile Move the file betty from /tmp/ to /tmp/my_first_directory
