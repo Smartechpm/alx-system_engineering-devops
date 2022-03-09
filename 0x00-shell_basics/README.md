@@ -7,3 +7,4 @@ File 7-movethatfile Move the file betty from /tmp/ to /tmp/my_first_directory
 File 7-movethatfile Move the file betty from /tmp/ to /tmp/my_first_directory
 File 8-firstdelete delete the file betty
 File 9-firstdirdeletion delete the directory my_first_directory in the /tmp directory
+File 10-back change the working directory to the previous one
